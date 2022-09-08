@@ -1,4 +1,4 @@
-﻿using ProductManagementSystemUC_1;
+﻿using ProductManagementSystemUsingLinq;
 
 Console.WriteLine("Product Review Management");
 
@@ -35,7 +35,7 @@ productreview.Add(new ProductReview() { ProductID = 10, UserID = 2, Rating = 3, 
 
 Management management = new Management();
 //UC-2 Get Top Records
-//management.GetTopRecordsList(productreview);
+management.GetTopRecordsList(productreview);
 
 //UC-3 Get Selected Records
 //management.SelectedRecords(productreview);
