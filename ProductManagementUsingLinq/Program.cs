@@ -44,7 +44,7 @@ Management management = new Management();
 //management.CountRecords(productreview);
 
 //UC-5 Retrieve Selected Columns
-management.RetrieveOnlytwoColumns(productreview);
+//management.RetrieveOnlytwoColumns(productreview);
 
 //UC-6 Skip Top 5 Records
-//management.SkipRecords(productreview);
+management.SkipRecords(productreview);
