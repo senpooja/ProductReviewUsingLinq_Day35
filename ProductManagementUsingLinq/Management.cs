@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProductManagementSystemUC_1
+namespace ProductManagementSystemUsingLinq
 {
     public class Management
     {
