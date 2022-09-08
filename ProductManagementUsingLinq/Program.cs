@@ -38,10 +38,10 @@ Management management = new Management();
 //management.GetTopRecordsList(productreview);
 
 //UC-3 Get Selected Records
-management.SelectedRecords(productreview);
+//management.SelectedRecords(productreview);
 
 //UC-4 Count Records 
-//management.CountRecords(productreview);
+management.CountRecords(productreview);
 
 //UC-5 Retrieve Selected Columns
 //management.RetrieveOnlytwoColumns(productreview);
