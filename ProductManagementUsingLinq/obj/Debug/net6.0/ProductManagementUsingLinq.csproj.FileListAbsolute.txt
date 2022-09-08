@@ -1,0 +1,15 @@
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\bin\Debug\net6.0\ProductManagementUsingLinq.exe
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\bin\Debug\net6.0\ProductManagementUsingLinq.deps.json
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\bin\Debug\net6.0\ProductManagementUsingLinq.runtimeconfig.json
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\bin\Debug\net6.0\ProductManagementUsingLinq.dll
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\bin\Debug\net6.0\ProductManagementUsingLinq.pdb
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.csproj.AssemblyReference.cache
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.AssemblyInfoInputs.cache
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.AssemblyInfo.cs
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.csproj.CoreCompileInputs.cache
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.dll
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\refint\ProductManagementUsingLinq.dll
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.pdb
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ProductManagementUsingLinq.genruntimeconfig.cache
+D:\C#program\ProductManagementUsingLinq\ProductManagementUsingLinq\obj\Debug\net6.0\ref\ProductManagementUsingLinq.dll
